@@ -1,4 +1,4 @@
-import argparse
+mport argparse
 
 # parse strings as arguments
 parser = argparse.ArgumentParser(description='Process two strings.')
@@ -9,6 +9,8 @@ str1 = parser.parse_args().str1
 str2 = parser.parse_args().str2
 
 # determine if mapping exists
+def check_mapping(domain, codomain):
+    return len(set(codomain))>=len(set(domain))
 
-# print final output
-print("true")
+if __name__ == "__main__":
+    print(check_mapping(str2, str1))
