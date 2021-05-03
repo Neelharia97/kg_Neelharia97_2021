@@ -8,8 +8,8 @@
 ### Question
 Conver an array of integers into an array of strings representing the phonetic equivalent of the integer.
 ### Example
-Given an Array: [3,25,209], print "Three, TwoFive, TwoZeroNine" into stdout.
-Given an Array: [10,300,5], print "OneZero, ThreeZeroZero, Five" into stdout.
+1. Given an Array: [3,25,209], print "Three, TwoFive, TwoZeroNine" into stdout.
+2. Given an Array: [10,300,5], print "OneZero, ThreeZeroZero, Five" into stdout.
 
 ## Approach
 
