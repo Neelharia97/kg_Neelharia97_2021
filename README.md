@@ -1,2 +1,9 @@
-# kg_Neelharia97_2021
-Assessment for Internship at Kargo.
+# Kargo Software Engineer Intern Online Assessment
+
+## About Me
+
+## Introduction
+
+## Approach
+
+## Usage
