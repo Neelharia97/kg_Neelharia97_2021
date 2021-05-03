@@ -20,12 +20,17 @@ Conver an array of integers into an array of strings representing the phonetic e
 6. Return final result array.
 
 ## Usage
-The Assessment is done in three languages:
+The Assessment is done in three languages, commands to execute the same is given below. 
 1. C++
- 
-                    usage: g++ main.cpp -o main
-                           main.exe 101 102 103
+
+            g++ main.cpp -o main
+            main.exe 101 102 103
       
 2. Python
-3. JavaScript(Node)
+
+           python main.py 101 102 103  
+          
+4. JavaScript(Node)
+ 
+           node main.js 101 102 103
 
