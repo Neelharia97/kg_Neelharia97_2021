@@ -22,8 +22,12 @@ Conver an array of integers into an array of strings representing the phonetic e
 ## Usage
 The Assessment is done in three languages:
 1. C++
-      g++ main.cpp -o main
-      main.exe 10 100 120
++
+.................
+$ g++ main.cpp -o main
+$ main.exe 101 102 103
+.................
++
       
 2. Python
 3. JavaScript(Node)
