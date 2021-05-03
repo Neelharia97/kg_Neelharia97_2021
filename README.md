@@ -12,5 +12,19 @@ Conver an array of integers into an array of strings representing the phonetic e
 2. Given an Array: [10,300,5], print "OneZero, ThreeZeroZero, Five" into stdout.
 
 ## Approach
+1. Take input from console.
+2. Convert input element into string.
+3. Use Map/dictionary/Key-Value pairs to store Phonetic equivalents i.e. '0' = "Zero", '1' = "One" and so on. 
+4. Iterate over converted input elements to map values in the dictionary created in step 3.
+5. Store result in array for each input element.
+6. Return final result array.
 
 ## Usage
+The Assessment is done in three languages:
+-- C++
+      g++ main.cpp -o main
+      main.exe 10 100 120
+      
+-- Python
+-- JavaScript(Node)
+
